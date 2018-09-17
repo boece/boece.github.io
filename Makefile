@@ -8,7 +8,7 @@ build:
 
 .PHONY: serve
 serve:
-	jekyll serve
+	jekyll serve --drafts
 
 .PHONY: commit
 commit:
