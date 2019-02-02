@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shop
-permalink: /Shop/
+permalink: /shop/
 ---
 
 Merch Shop Coming Soon!
