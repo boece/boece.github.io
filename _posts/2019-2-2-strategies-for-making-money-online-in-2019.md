@@ -20,6 +20,7 @@ With out further or do here's the list :
 - [Affiliate links in blog posts](#affiliate-links-in-blog-posts)
 - [Adsense revenue from YouTube videos](#adsense-revenue-from-youtube-videos)
 - [OZBargain.com](#ozbargaincom)
+- [Refer a Friend Offers](#refer-a-friend-offers)
 - [Setting up an online merch shop](#setting-up-an-online-merch-shop)
 - [Recurring donations via Patreon and SubscribeStar](#recurring-donations-via-patreon-and-subscribestar)
 - [Bitcoin and cryptocurrency trading](#bitcoin-and-cryptocurrency-trading)
@@ -32,6 +33,20 @@ With out further or do here's the list :
 # Adsense revenue from YouTube videos
 
 # OZBargain.com
+
+OZBargain.com has many great user submitted deals :
+https://www.ozbargain.com.au/
+
+Sign up for the daily newsletter and check out the top bargains of the day.
+
+Use coupon stacking to get even better deals.
+
+Example stacking could be purchasing a store gift card for a discounted price,
+waiting for that store to have an item on sale you wish to purchase.
+Use the gift card to purchase that item and then use the CashbackRewards website
+to get further money back offers.
+
+# Refer a Friend Offers
 
 # Setting up an online merch shop
 
