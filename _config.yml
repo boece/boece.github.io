@@ -30,6 +30,8 @@ navigation:
     url: /tags
   - name: Donate
     url: /donate
+  - name: Shop
+    url: /shop
   # - name: Theme
   #   url: https://github.com/boece
 
