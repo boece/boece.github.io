@@ -57,3 +57,11 @@ to get further money back offers.
 # Unboxing videos for new products
 
 # Create a Shopify account
+
+# Sell Reddit Accounts
+
+Apparently there is a market for buying Reddit accounts that have high karma
+
+Consider writing a bot that posts to Reddit and gets karma, figure out a way to get karma so it looks organic, sell these accounts online.
+
+# Setting up a free website on Github 

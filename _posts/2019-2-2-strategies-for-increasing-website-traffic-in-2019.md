@@ -27,4 +27,13 @@ With out further or do here's the list :
 
 # Finding the best hashtags to use on twitter
 
+Use a website like [Hashtagify.me](https://hashtagify.me/) to search for a hashtag you want to use, it will tell you what other popular hashtags are used with that hashtag, this will
+help you know what other hashtags to use to increase your exposure on twitter.
+You can also discover the top rising hashtags here [Hashtagify.me/Popular](https://hashtagify.me/popular/en)
+
+
 # Using automation, bots and scripts
+
+Learn to Code! Start writing some scripts you can run on a schedule that direct traffic to your website.
+
+I'm going to work on some scripts that publish my articles onto multiple platforms.
