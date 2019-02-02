@@ -30,9 +30,13 @@ With out further or do here's the list :
 
 # Affiliate links in blog posts
 
+* Amazon Affiliate links
+
 # Adsense revenue from YouTube videos
 
 # OZBargain.com
+
+* Bargain Stacking
 
 OZBargain.com has many great user submitted deals :
 https://www.ozbargain.com.au/
@@ -45,6 +49,8 @@ Example stacking could be purchasing a store gift card for a discounted price,
 waiting for that store to have an item on sale you wish to purchase.
 Use the gift card to purchase that item and then use the CashbackRewards website
 to get further money back offers.
+
+* Creating and Filling out the affiliate links in your OZBargain profile
 
 # Refer a Friend Offers
 
@@ -64,4 +70,4 @@ Apparently there is a market for buying Reddit accounts that have high karma
 
 Consider writing a bot that posts to Reddit and gets karma, figure out a way to get karma so it looks organic, sell these accounts online.
 
-# Setting up a free website on Github 
+# Setting up a free website on Github

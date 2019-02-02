@@ -37,3 +37,5 @@ You can also discover the top rising hashtags here [Hashtagify.me/Popular](https
 Learn to Code! Start writing some scripts you can run on a schedule that direct traffic to your website.
 
 I'm going to work on some scripts that publish my articles onto multiple platforms.
+
+# Instagram bots, auto liking and following people on Instagram
