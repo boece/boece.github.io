@@ -14,6 +14,8 @@ With out further or do here's the list :
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Speech to Text](#speech-to-text)
+- [Setting up a Free Jekyll Blog with GitHub Pages](#setting-up-a-free-jekyll-blog-with-github-pages)
+- [Coming up with a podcasting workflow](#coming-up-with-a-podcasting-workflow)
 
 <!-- /TOC -->
 
@@ -28,6 +30,14 @@ Is there a good way of recording yourself talking and having that convert to tex
   * Fast
   * Backed up
   * Benefits of source control and pull requests
-  * Great for multiple collaboration
+  * Great for multiple people collaboration
+
+Downsides are you need to have to technical knowledge to use jekyll and git workflow.
+
 
 # Coming up with a podcasting workflow
+
+* Weekly roundup of what you've worked on or seen online and progress updates for things
+you've been working on.
+
+* Can you convert your podcast video to text someway to make it easier for people to find your content. Can you extract auto created subtitles from youtube perhaps?
