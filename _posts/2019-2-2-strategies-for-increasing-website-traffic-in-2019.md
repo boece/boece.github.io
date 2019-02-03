@@ -21,6 +21,7 @@ With out further or do here's the list :
 - [Using automation, bots and scripts](#using-automation-bots-and-scripts)
 - [Instagram bots, auto liking and following people on Instagram](#instagram-bots-auto-liking-and-following-people-on-instagram)
 - [Clickbait](#clickbait)
+- [Writing List Articles](#writing-list-articles)
 
 <!-- /TOC -->
 
@@ -45,3 +46,16 @@ I'm going to work on some scripts that publish my articles onto multiple platfor
 
 Nother unethical strategy but one that seems to work.
 What are the various ways of clickbaiting people
+
+* Clickbait titles
+* Clickbait thumbnails
+
+# Writing List Articles
+
+Articles that are lists seem to be very popular at getting traffic, for example
+
+* Top 20 Ways to Wash Your Dog
+* Top 50 Things That Cured My Eczema
+* Top 1000 Ways To Cook A Cup of Rice
+
+I think people like concise articles that get to the point.
