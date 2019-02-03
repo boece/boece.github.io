@@ -36,7 +36,7 @@ navigation:
   #   url: https://github.com/boece
 
 # Pagination
-paginate: 5
+paginate: 10
 
 # Includes an icon in the footer for each username you enter
 footer-links:

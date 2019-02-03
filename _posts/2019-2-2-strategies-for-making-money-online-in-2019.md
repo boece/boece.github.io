@@ -18,7 +18,11 @@ With out further or do here's the list :
 - [OZBargain.com](#ozbargaincom)
 - [Refer a Friend Offers](#refer-a-friend-offers)
 - [Setting up an online merch shop](#setting-up-an-online-merch-shop)
-- [Recurring donations via Patreon and SubscribeStar](#recurring-donations-via-patreon-and-subscribestar)
+- [Ask Users To Donate](#ask-users-to-donate)
+	- [Create a Patreon Account](#create-a-patreon-account)
+	- [Create a SubscribeStar Account](#create-a-subscribestar-account)
+	- [Receive BitCoin and Cryptocurrent Donations](#receive-bitcoin-and-cryptocurrent-donations)
+	- [Direct PayPal Payments](#direct-paypal-payments)
 - [Bitcoin and cryptocurrency trading](#bitcoin-and-cryptocurrency-trading)
 - [Unboxing videos for new products](#unboxing-videos-for-new-products)
 - [Create a Shopify account](#create-a-shopify-account)
@@ -27,6 +31,7 @@ With out further or do here's the list :
 - [Text to Speech](#text-to-speech)
 - [Podcasting and Sponsors](#podcasting-and-sponsors)
 - [Collaborating with other content producers](#collaborating-with-other-content-producers)
+- [Create kids videos for youtube](#create-kids-videos-for-youtube)
 
 <!-- /TOC -->
 
@@ -58,11 +63,24 @@ to get further money back offers.
 
 # Setting up an online merch shop
 
-# Recurring donations via Patreon and SubscribeStar
+# Ask Users To Donate
+
+If people really enjoy your work they may want to support you financially so you can continue producing content. Some popular ways are via :
+
+## Create a Patreon Account
+## Create a SubscribeStar Account
+## Receive BitCoin and Cryptocurrent Donations
+## Direct PayPal Payments
 
 # Bitcoin and cryptocurrency trading
 
+Try your hand at online cryptocurrency trading
+
 # Unboxing videos for new products
+
+Buy new products as they come out and do an unboxing video and review the product.
+
+[MarquesBrownlee](https://www.youtube.com/user/marquesbrownlee/videos?sort=p&view=0&flow=grid) is probably the most popular example of that and he would be making millions every year.
 
 # Create a Shopify account
 
@@ -87,3 +105,9 @@ These ideas are a bit spammy and probably will get you banned, look into how to 
 # Podcasting and Sponsors
 
 # Collaborating with other content producers
+
+# Create kids videos for youtube
+
+Kids videos seem to get millions of views and the videos seem pretty easy to make, get paid Google Adsense revenue for the views and throw in some affiliate links to sell the toys or products you are using in your videos.
+
+[Ryans Toy Reviews](https://www.youtube.com/channel/UChGJGhZ9SOOHvBB0Y4DOO_w/videos?flow=grid&sort=p&view=0) has videos with over a billion views and his sells his own line of Toys.
