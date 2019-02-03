@@ -25,9 +25,10 @@ With out further or do here's the list :
 - [Sell Reddit Accounts](#sell-reddit-accounts)
 - [Setting up a free website on Github](#setting-up-a-free-website-on-github)
 - [Text to Speech](#text-to-speech)
+- [Podcasting and Sponsors](#podcasting-and-sponsors)
+- [Collaborating with other content producers](#collaborating-with-other-content-producers)
 
 <!-- /TOC -->
-
 
 # Affiliate links in blog posts
 
@@ -82,3 +83,7 @@ Look into ways of generating video from text content.
 * Bot reads news articles from websites and generates youtube videos.
 
 These ideas are a bit spammy and probably will get you banned, look into how to limit or quality control the videos so you're less likely to get banned.
+
+# Podcasting and Sponsors
+
+# Collaborating with other content producers

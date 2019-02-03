@@ -20,3 +20,14 @@ With out further or do here's the list :
 # Speech to Text
 
 Is there a good way of recording yourself talking and having that convert to text for easy creation of articles.
+
+# Setting up a Free Jekyll Blog with GitHub Pages
+
+* Hosting a website on Github Pages gives you the following benefits
+  * Free
+  * Fast
+  * Backed up
+  * Benefits of source control and pull requests
+  * Great for multiple collaboration
+
+# Coming up with a podcasting workflow
