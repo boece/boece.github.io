@@ -5,13 +5,9 @@ tags:
   - finance
 ---
 
-I'm going to start this page as a rough draft listing out various ways of making money online in 2019
-and I'll update the page as I find new ideas.
+I'm going to create this page as a rough draft of ideas for how I can make money online this year and then try and execute on those ideas and document the process a long the way.
 
-Then I'll attempt to execute on these ideas and see if I have any success and I'll document the process
-along the way.
-
-I'm just going to list them for now and I'll fill out each one with more detail as I go.
+I'm going to list them for now and I'll fill out each one with more detail as I go.
 
 With out further or do here's the list :
 
@@ -71,3 +67,13 @@ Apparently there is a market for buying Reddit accounts that have high karma
 Consider writing a bot that posts to Reddit and gets karma, figure out a way to get karma so it looks organic, sell these accounts online.
 
 # Setting up a free website on Github
+
+# Text to Speech
+
+Look into ways of generating video from text content.
+
+* Bot script reads product description of newly added products on amazon and reviews and generates a product review video and posts it on youtube with affiliate links to the amazon website.
+
+* Bot reads news articles from websites and generates youtube videos.
+
+These ideas are a bit spammy and probably will get you banned, look into how to limit or quality control the videos so you're less likely to get banned.

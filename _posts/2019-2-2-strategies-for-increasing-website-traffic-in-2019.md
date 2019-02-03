@@ -5,12 +5,12 @@ tags:
   - blogging
 ---
 
-I'm going to start this page as a rough draft listing out various ways of increasing traffic to your website in 2019 and I'll update the page as I find new ideas.
+I'm going to create this page as a rough draft of ideas for how I can increase traffic to my
+website this year and then try and execute on those ideas and document the process a long the way.
 
-Then I'll attempt to execute on these ideas and see if I have any success and I'll document the process
-along the way.
+I'm going to list them for now and I'll fill out each one with more detail as I go.
 
-I'm just going to list them for now and I'll fill out each one with more detail as I go.
+I've already realised a lot of these are probably not entirely ethical and involved writing bots and scripts and gaming social media but whatever, everybody needs a hustle.
 
 With out further or do here's the list :
 
@@ -39,3 +39,7 @@ Learn to Code! Start writing some scripts you can run on a schedule that direct 
 I'm going to work on some scripts that publish my articles onto multiple platforms.
 
 # Instagram bots, auto liking and following people on Instagram
+
+# Clickbait
+
+What are the various ways of clickbaiting people

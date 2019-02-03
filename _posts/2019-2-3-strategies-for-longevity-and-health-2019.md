@@ -5,11 +5,9 @@ tags:
   - health
 ---
 
-I'm going to start this page as a rough draft listing out various ways of increasing your Longevity and Health in 2019 and I'll update the page as I find new ideas.
+I'm going to create this page as a rough draft of ideas for how I can improve my health and longevity this year and then try and execute on those ideas and document the process along the way.
 
-Then I'll attempt to execute on these ideas and see if I have any success and I'll document the process along the way.
-
-I'm just going to list them for now and I'll fill out each one with more detail as I go.
+I'm going to list them for now and I'll fill out each one with more detail as I go.
 
 With out further or do here's the list :
 
@@ -26,7 +24,7 @@ With out further or do here's the list :
 <!-- /TOC -->
 
 
-# Blood Sugar
+# Managing My Blood Sugar
 
 * Insulin Resistance
 * Monitoring your Blood Sugar
@@ -39,7 +37,7 @@ With out further or do here's the list :
 
 # Fasting
 
-# Keto
+# Keto Diet
 Ivor Cummins
 
 # Exercise
@@ -51,7 +49,16 @@ Ivor Cummins
 * Saunas
 * Wim Hof Method
 
-# Microgreens
+# Eating Microgreens
 
 * Growing microgreens at home
 * Broccoli sprouts that are high in sulforaphane
+
+# Keeping a health diary
+
+* FitBit Heart Rate Monitor Watch
+* Wifi Scale
+* Blood Sugar Monitor
+* MyFitnessPal
+* Cronometer
+* Custom Health Logging With Python
