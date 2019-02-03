@@ -21,8 +21,13 @@ With out further or do here's the list :
 - [Recurring donations via Patreon and SubscribeStar](#recurring-donations-via-patreon-and-subscribestar)
 - [Bitcoin and cryptocurrency trading](#bitcoin-and-cryptocurrency-trading)
 - [Unboxing videos for new products](#unboxing-videos-for-new-products)
+- [Create a Shopify account](#create-a-shopify-account)
+- [Sell Reddit Accounts](#sell-reddit-accounts)
+- [Setting up a free website on Github](#setting-up-a-free-website-on-github)
+- [Text to Speech](#text-to-speech)
 
 <!-- /TOC -->
+
 
 # Affiliate links in blog posts
 

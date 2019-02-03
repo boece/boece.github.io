@@ -19,9 +19,10 @@ With out further or do here's the list :
 - [Posting your articles on social media](#posting-your-articles-on-social-media)
 - [Finding the best hashtags to use on twitter](#finding-the-best-hashtags-to-use-on-twitter)
 - [Using automation, bots and scripts](#using-automation-bots-and-scripts)
+- [Instagram bots, auto liking and following people on Instagram](#instagram-bots-auto-liking-and-following-people-on-instagram)
+- [Clickbait](#clickbait)
 
 <!-- /TOC -->
-
 
 # Posting your articles on social media
 
@@ -42,4 +43,5 @@ I'm going to work on some scripts that publish my articles onto multiple platfor
 
 # Clickbait
 
+Nother unethical strategy but one that seems to work.
 What are the various ways of clickbaiting people
