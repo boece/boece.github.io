@@ -17,17 +17,19 @@ With out further or do here's the list :
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Posting your articles on social media](#posting-your-articles-on-social-media)
-- [Finding the best hashtags to use on twitter](#finding-the-best-hashtags-to-use-on-twitter)
+- [Finding the best hashtags to use on twitter posts](#finding-the-best-hashtags-to-use-on-twitter-posts)
 - [Using automation, bots and scripts](#using-automation-bots-and-scripts)
 - [Instagram bots, auto liking and following people on Instagram](#instagram-bots-auto-liking-and-following-people-on-instagram)
 - [Clickbait](#clickbait)
 - [Writing List Articles](#writing-list-articles)
+- [Adding a Facebook Like button to your Blog Posts](#adding-a-facebook-like-button-to-your-blog-posts)
+- [Paying To Promote Your Posts to Users](#paying-to-promote-your-posts-to-users)
 
 <!-- /TOC -->
 
 # Posting your articles on social media
 
-# Finding the best hashtags to use on twitter
+# Finding the best hashtags to use on twitter posts
 
 Use a website like [Hashtagify.me](https://hashtagify.me/) to search for a hashtag you want to use, it will tell you what other popular hashtags are used with that hashtag, this will
 help you know what other hashtags to use to increase your exposure on twitter.
@@ -59,3 +61,9 @@ Articles that are lists seem to be very popular at getting traffic, for example
 * Top 1000 Ways To Cook A Cup of Rice
 
 I think people like concise articles that get to the point.
+
+# Adding a Facebook Like button to your Blog Posts
+
+Facebook seems to be the best social media platform to infiltrate if you want to increase the traffic to your website, every one seems to have facebook these days, so if you can get a post going viral on Facebook you are guaranteed to get a lot of traffic coming your way.
+
+# Paying To Promote Your Posts to Users

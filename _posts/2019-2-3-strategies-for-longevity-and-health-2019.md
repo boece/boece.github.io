@@ -13,13 +13,14 @@ With out further or do here's the list :
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Blood Sugar](#blood-sugar)
+- [Managing My Blood Sugar](#managing-my-blood-sugar)
 - [Fasting](#fasting)
-- [Keto](#keto)
+- [Keto Diet](#keto-diet)
 - [Exercise](#exercise)
 - [Things to avoid](#things-to-avoid)
 - [Hot and Cold exposure](#hot-and-cold-exposure)
-- [Microgreens](#microgreens)
+- [Eating Microgreens](#eating-microgreens)
+- [Keeping a health diary](#keeping-a-health-diary)
 
 <!-- /TOC -->
 
